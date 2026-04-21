@@ -7,9 +7,10 @@ const cards: ResumeCardComp[] = [
     id: 1,
     title: "Graduate Researcher",
     description: [
-      "Conducted research with Dr. Leonardo da Silva Sousa on a Real-Time ASL Translation App on Apple Vision Pro.",
-      "Led frontend development of the mixed reality application for visionOS with quantized offline models.",
-      "Co-authored a research paper on Real-Time ASL Translation systems with LLMs (under review).",
+      "Developed two mixed reality applications for Apple Vision Pro (Swift, SwiftUI, ARKit) to enable real-time 3D ASL-to-English translation",
+      "Built a real-time hand-tracking translation system with quantized ML models and an on-device LLM (first application)",
+      "Designed and led the implementation of a custom 3D data collection pipeline transforming raw hand skeleton data into structured datasets through live user sessions (second application)",
+      "Co-authored a research paper (under review) and slated for open-source release to help other researchers solve the current lack of high-quality ASL spatial data",
     ],
     employer: "Carnegie Mellon University",
     date: "Jan 2025 - Dec 2026",
